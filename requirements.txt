@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn 
+matplotlib
+opencv-python
+pytorch
+torchvision
+pytorch_lightning 
+albumentations
+timm
