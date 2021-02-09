@@ -1,6 +1,7 @@
 # experiments
-# *.ipynb
+*.ipynb
 **/lightning_logs
+**/outputs
 
 # data
 **/data
